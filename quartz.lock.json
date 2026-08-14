@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "core": {
+      "source": "https://github.com/quartz-themes/core.git",
+      "resolved": "https://github.com/quartz-themes/core.git",
+      "commit": "9fabde138a320ff83771e7925c667a3f78603daf",
+      "installedAt": "2026-08-14T02:21:52.637Z"
+    },
+    "obsidian-plugin-excalidraw": {
+      "source": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
+      "resolved": "https://github.com/quartz-community/obsidian-plugin-excalidraw.git",
+      "commit": "2ec57cdad9555dc0b04b51615fa36c01430dbd89",
+      "installedAt": "2026-08-14T02:16:26.399Z"
+    }
+  }
+}
