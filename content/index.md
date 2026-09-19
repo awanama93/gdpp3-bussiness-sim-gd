@@ -1,7 +1,10 @@
-This is your new _vault_.
+Ini adalah halaman index untuk design document dari project:
+Business Sim
 
-Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+Pada dokumen ini terdapat sejumlah informasi tentang:
 
-When you're ready, delete this note and make the vault your own.
-test
-coba perubahan
+[[GameDesignDocument|Game Design Document]]
+[[ArtDesignDocument|Art Design Document]]
+[[TechincalDesignDocument|Technical Design Document]]
+[[ProjectKanban|Project kanban]]
+[[DataTim|Data tim]]
